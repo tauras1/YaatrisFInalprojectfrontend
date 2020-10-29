@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Yaatris</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="explore">Explore</string>
+    <string name="adventures">Adventures</string>
+    <string name="volunteers">Volunteers</string>
+    <string name="Account">Account</string>
+    <string name="title_activity_explore_maps">Map</string>
+    <string name="map_key" translatable="false">AIzaSyB_qsP8AOP_P0MdlPz-48TDaJYjTP3vbjo</string>
+    <string name="input_error_email_invalid">Enter valid email address</string>
+    <string name="enterName">Enter your name</string>
+    <string name="title_activity_adventure_details">AdventureDetails</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+
+</resources>
